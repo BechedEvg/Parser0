@@ -32,7 +32,6 @@ class DriverChrome:
                 fix_hairline=True,
                 )
 
-
     def close_browser(self):
         self.driver.quit()
 
